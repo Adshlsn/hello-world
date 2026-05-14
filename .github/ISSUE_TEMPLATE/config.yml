@@ -1,0 +1,5 @@
+blank_issues_enabled: false  # 禁止空白issue，必须选模板
+contact_links:
+  - name: 功能需求反馈
+    url: https://github.com/xxx/xxx/issues/new?template=feature_request.md
+    about: 提交新功能需求
